@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Strangers/app/src/main/res/drawable/bg_et_message.xml" value="0.12314814814814815" />
+        <entry key="..\:/Strangers/app/src/main/res/drawable/bg_reciver.xml" value="0.13518518518518519" />
+        <entry key="..\:/Strangers/app/src/main/res/drawable/bg_sender.xml" value="0.13518518518518519" />
+        <entry key="..\:/Strangers/app/src/main/res/drawable/btn_bg.xml" value="0.146875" />
+        <entry key="..\:/Strangers/app/src/main/res/layout/activity_chat_detail.xml" value="0.1" />
+        <entry key="..\:/Strangers/app/src/main/res/layout/activity_group_chat.xml" value="0.264" />
+        <entry key="..\:/Strangers/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Strangers/app/src/main/res/layout/activity_settings.xml" value="0.1" />
+        <entry key="..\:/Strangers/app/src/main/res/layout/activity_signin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Strangers/app/src/main/res/layout/activity_signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Strangers/app/src/main/res/layout/fragment_chats.xml" value="0.1" />
+        <entry key="..\:/Strangers/app/src/main/res/layout/fragment_emotions.xml" value="0.1" />
+        <entry key="..\:/Strangers/app/src/main/res/layout/fragment_write.xml" value="0.2" />
+        <entry key="..\:/Strangers/app/src/main/res/layout/sample_reciver.xml" value="0.1" />
+        <entry key="..\:/Strangers/app/src/main/res/layout/sample_sender.xml" value="0.536" />
+        <entry key="..\:/Strangers/app/src/main/res/layout/sample_show_user.xml" value="0.1" />
+        <entry key="..\:/Strangers/app/src/main/res/menu/menu.xml" value="0.13020833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
